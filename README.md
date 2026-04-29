@@ -84,7 +84,7 @@ src/
 ### 1. Clone and install dependencies
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/coding-fortunatus/virtual-assistant-api.git
 cd virtual-assistant-api
 npm install
 ```
